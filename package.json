@@ -1,0 +1,27 @@
+{
+  "name": "phantomjs-site-snapshot",
+  "version": "1.0.0",
+  "description": "## Site snapshot preview for RE:SOURCEs site",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "md5": "^2.2.1",
+    "morgan": "^1.9.0",
+    "serve-favicon": "^2.5.0",
+    "valid-url": "^1.0.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vision-X/phantomjs-site-snapshot.git"
+  },
+  "author": "Michael Marlow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vision-X/phantomjs-site-snapshot/issues"
+  },
+  "homepage": "https://github.com/Vision-X/phantomjs-site-snapshot#readme"
+}
