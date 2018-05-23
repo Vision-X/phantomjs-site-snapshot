@@ -11,6 +11,7 @@
     "express": "^4.16.3",
     "md5": "^2.2.1",
     "morgan": "^1.9.0",
+    "phantomjs-prebuilt": "^2.1.16",
     "serve-favicon": "^2.5.0",
     "valid-url": "^1.0.9"
   },
